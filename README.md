@@ -1,6 +1,7 @@
 # hello_world_in_nasm
 hello world in nasm
-#Where to download nasm
+
+# Where to download nasm
 if you are in linux you can use your apt to download nasm
 Eg: sudo apt install  nasm
 You can also build nasm from source (in linux):
