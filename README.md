@@ -19,7 +19,7 @@ For window
 2. goto environment variables and export the nasm bin
 
 # How to program in nasm
-1. Look at the linux syscall table https://gist.github.com/GabriOliv/a9411fa771a1e5d94105cb05cbaebd21
+1. Look at the linux syscall table https://chromium.googlesource.com/chromiumos/docs/+/master/constants/syscalls.md
 2. Look at window api syscall table
 
 # Reference
