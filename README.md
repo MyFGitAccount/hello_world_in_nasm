@@ -17,9 +17,9 @@ For window
 1 download it from the webpage
 2 goto environment variables and export the nasm bin
 
-#How to program in nasm
+# How to program in nasm
 Look at the linux syscall table https://gist.github.com/GabriOliv/a9411fa771a1e5d94105cb05cbaebd21
 Look at window api syscall table
 
-#Reference
+# Reference
 https://cs.lmu.edu/~ray/notes/nasmtutorial/
